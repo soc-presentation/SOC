@@ -1,0 +1,2 @@
+# Endcoding Algorithm
+Encoding algorithms are systematic methods for converting data into a specific format. This transformation is typically performed to ensure the data is suitable for various purposes, such as efficient storage, transmission, or interoperability between different systems.
